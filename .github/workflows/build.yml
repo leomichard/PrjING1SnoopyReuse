@@ -5,10 +5,7 @@ on: [push, pull_request]
 jobs:
   build:
     runs-on: [
-      self-hosted,
-      linux,
-      x64
-    ]
+      self-hosted]
     steps:
       - uses: actions/checkout@v4
 
