@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "leomichard/PrjING1SnoopyReuse",
+  "pipelineDirectory": "PrjING1SnoopyReuse",
+  "workspaceDirectory": "PrjING1SnoopyReuse\\PrjING1SnoopyReuse",
+  "repositories": {
+    "leomichard/PrjING1SnoopyReuse": {
+      "repositoryPath": "PrjING1SnoopyReuse\\PrjING1SnoopyReuse",
+      "lastRunOn": "09/04/2026 18:23:39 +02:00"
+    }
+  },
+  "lastRunOn": "09/04/2026 18:23:39 +02:00"
+}
